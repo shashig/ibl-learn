@@ -1,0 +1,4 @@
+.DS_Store
+.sf/*
+node_modules/*
+.env
