@@ -1,5 +1,6 @@
 {
   "name": "ibl-learn",
+  "type": "module",
   "version": "1.0.0",
   "description": "A simple project used to learn shell and Node scripts to work with Salesforce CLI",
   "main": "index.js",
